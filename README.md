@@ -1,4 +1,6 @@
-# OpenSees Source Code Repository
+# OpenSees: Open System for Earthquake Engineering Simulation 
+
+## Source Code Repository
 
 This git repository contains all revisions to OpenSees source code since Version 2.3.2.
 
